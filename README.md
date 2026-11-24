@@ -11,3 +11,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 3 | SOC-1: Windows Essentials | PowerShell, Event Viewer, Sysmon, Windows Registry | [Walkthrough](SOC-1%20Windows%20Essentials/) |
 | 4 | Introduction to Splunk | Splunk, Universal Forwarder, SPL, Ubuntu and Windows logs | [Walkthrough](Introduction%20to%20Splunk/) |
 | 5 | Introduction to Wazuh | Wazuh agents, Dashboard, MITRE ATT&CK, authentication alerts | [Walkthrough](Introduction%20to%20Wazuh/) |
+| 6 | Introduction to ELK | Elasticsearch, Kibana, Filebeat, Winlogbeat, KQL | [Walkthrough](Introduction%20to%20ELK/) |
