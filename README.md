@@ -19,3 +19,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 11 | Threat Detection with Wazuh Sysmon | Wazuh, Sysmon, Windows Server, custom detection rules | [Walkthrough](Threat%20Detection%20with%20Wazuh%20Sysmon/) |
 | 12 | Threat Hunting with Wazuh | Wazuh, Windows security events, MITRE ATT&CK | [Walkthrough](Threat%20Hunting%20with%20Wazuh/) |
 | 13 | Detecting Abnormal Network Connections With Wazuh | Wazuh, Sysmon, CDB lists, network alerts | [Walkthrough](Detecting%20Abnormal%20Network%20Connections%20With%20Wazuh/) |
+| 14 | Detecting Mimikatz Threat Using Sysmon and Wazuh | Wazuh, Sysmon, Windows process telemetry | [Walkthrough](Detecting%20Mimikatz%20Threat%20Using%20Sysmon%20and%20Wazuh/) |
