@@ -27,3 +27,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 19 | ELK: SSH Logs | Kibana, Elasticsearch, SSH authentication logs | [Walkthrough](ELK%20-%20SSH%20Logs/) |
 | 20 | Log Collection & Aggregation | Splunk, Universal Forwarder, Windows Security, Active Directory, Linux auth logs | [Walkthrough](Log%20Collection%20%26%20Aggregation/) |
 | 21 | Kibana: Windows Event Logs I | Kibana, Elasticsearch, Sysmon process creation | [Walkthrough](Kibana%20-%20Windows%20Event%20Logs%20I/) |
+| 22 | Kibana: Windows Event Logs II | Kibana, Elasticsearch, Windows network events | [Walkthrough](Kibana%20-%20Windows%20Event%20Logs%20II/) |
