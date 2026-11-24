@@ -13,3 +13,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 5 | Introduction to Wazuh | Wazuh agents, Dashboard, MITRE ATT&CK, authentication alerts | [Walkthrough](Introduction%20to%20Wazuh/) |
 | 6 | Introduction to ELK | Elasticsearch, Kibana, Filebeat, Winlogbeat, KQL | [Walkthrough](Introduction%20to%20ELK/) |
 | 7 | Threat Hunting with Splunk and Sysmon | Splunk, SPL, Sysmon, Windows threat hunting | [Walkthrough](Threat%20Hunting%20with%20Splunk%20and%20Sysmon/) |
+| 8 | Threat Hunting with Splunk | Splunk, Sysmon, PowerShell and Windows Security logs | [Walkthrough](Threat%20Hunting%20with%20Splunk/) |
