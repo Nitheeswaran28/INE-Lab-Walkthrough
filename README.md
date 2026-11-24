@@ -21,3 +21,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 13 | Detecting Abnormal Network Connections With Wazuh | Wazuh, Sysmon, CDB lists, network alerts | [Walkthrough](Detecting%20Abnormal%20Network%20Connections%20With%20Wazuh/) |
 | 14 | Detecting Mimikatz Threat Using Sysmon and Wazuh | Wazuh, Sysmon, Windows process telemetry | [Walkthrough](Detecting%20Mimikatz%20Threat%20Using%20Sysmon%20and%20Wazuh/) |
 | 15 | Detecting PsExec with Wazuh | Wazuh, Sysmon, Windows registry and named pipes | [Walkthrough](Detecting%20PsExec%20with%20Wazuh/) |
+| 16 | Threat Detection with Elasticsearch and Kibana | HELK, Kibana, Elasticsearch, Sysmon, Winlogbeat | [Walkthrough](Threat%20Detection%20with%20Elasticsearch%20and%20Kibana/) |
