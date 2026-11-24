@@ -17,3 +17,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 9 | Effectively Using Splunk (Scenario 1) | Splunk, BOTS v1, Suricata, Sysmon, OSINT | [Walkthrough](Effectively%20Using%20Splunk%20%28Scenario%201%29/) |
 | 10 | Effectively Using Splunk (Scenario 2) | Splunk, BOTS v1, DNS, Sysmon, URL Toolbox | [Walkthrough](Effectively%20Using%20Splunk%20%28Scenario%202%29/) |
 | 11 | Threat Detection with Wazuh Sysmon | Wazuh, Sysmon, Windows Server, custom detection rules | [Walkthrough](Threat%20Detection%20with%20Wazuh%20Sysmon/) |
+| 12 | Threat Hunting with Wazuh | Wazuh, Windows security events, MITRE ATT&CK | [Walkthrough](Threat%20Hunting%20with%20Wazuh/) |
