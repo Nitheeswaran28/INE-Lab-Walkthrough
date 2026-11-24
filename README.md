@@ -7,3 +7,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | Lab No. | Lab Title | Topic/Tools | Link to folder |
 | --- | --- | --- | --- |
 | 1 | SOC-1: Networking Essentials | Linux networking, Nmap, Wireshark, SSH, Apache, UFW | [Walkthrough](SOC-1%20Networking%20Essentials/) |
+| 2 | SOC-1: Linux Essentials | Bash, systemd, Linux logs, Apache | [Walkthrough (draft)](SOC-1%20Linux%20Essentials/) |
