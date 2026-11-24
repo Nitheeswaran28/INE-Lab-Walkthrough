@@ -24,3 +24,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 16 | Threat Detection with Elasticsearch and Kibana | HELK, Kibana, Elasticsearch, Sysmon, Winlogbeat | [Walkthrough](Threat%20Detection%20with%20Elasticsearch%20and%20Kibana/) |
 | 17 | Effectively Using the ELK Stack | Kibana, Elasticsearch, Lucene, Sysmon | [Walkthrough](Effectively%20Using%20the%20ELK%20Stack/) |
 | 18 | Log Anomaly Detection Basics | Python, HTTP access logs, anomaly detection | [Walkthrough](Log%20Anomaly%20Detection%20Basics/) |
+| 19 | ELK: SSH Logs | Kibana, Elasticsearch, SSH authentication logs | [Walkthrough](ELK%20-%20SSH%20Logs/) |
