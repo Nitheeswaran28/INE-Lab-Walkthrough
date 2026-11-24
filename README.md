@@ -15,3 +15,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 7 | Threat Hunting with Splunk and Sysmon | Splunk, SPL, Sysmon, Windows threat hunting | [Walkthrough](Threat%20Hunting%20with%20Splunk%20and%20Sysmon/) |
 | 8 | Threat Hunting with Splunk | Splunk, Sysmon, PowerShell and Windows Security logs | [Walkthrough](Threat%20Hunting%20with%20Splunk/) |
 | 9 | Effectively Using Splunk (Scenario 1) | Splunk, BOTS v1, Suricata, Sysmon, OSINT | [Walkthrough](Effectively%20Using%20Splunk%20%28Scenario%201%29/) |
+| 10 | Effectively Using Splunk (Scenario 2) | Splunk, BOTS v1, DNS, Sysmon, URL Toolbox | [Walkthrough](Effectively%20Using%20Splunk%20%28Scenario%202%29/) |
