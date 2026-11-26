@@ -36,3 +36,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 28 | DNS Basics | DNS, dig, nslookup, DNSSEC | [Walkthrough](DNS%20Basics/) |
 | 29 | DNS Enumeration | DNS, DNSEnum, DNSRecon, DNSSEC | [Walkthrough](DNS%20Enumeration/) |
 | 30 | DNS and Vhosts | DNS, PTR, dig, HTTP virtual hosts | [Walkthrough](DNS%20and%20Vhosts/) |
+| 31 | Exploring a Git Repo | Git history, SMB, repository secret exposure | [Walkthrough](Exploring%20a%20Git%20Repo/) |
