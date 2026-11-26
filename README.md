@@ -35,3 +35,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 27 | Apache Error Log Analysis Basics | Apache error logs, grep, cut, shell pipelines | [Walkthrough](Apache%20Error%20Log%20Analysis%20Basics/) |
 | 28 | DNS Basics | DNS, dig, nslookup, DNSSEC | [Walkthrough](DNS%20Basics/) |
 | 29 | DNS Enumeration | DNS, DNSEnum, DNSRecon, DNSSEC | [Walkthrough](DNS%20Enumeration/) |
+| 30 | DNS and Vhosts | DNS, PTR, dig, HTTP virtual hosts | [Walkthrough](DNS%20and%20Vhosts/) |
