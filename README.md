@@ -42,3 +42,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 34 | Advanced Threat Analysis | Wireshark, CyberChef, HTTP, network forensics | [Walkthrough](Advanced%20Threat%20Analysis/) |
 | 35 | Log Analysis Using Linux | Apache, SSH, FTP, grep, cut, awk | [Walkthrough](Log%20Analysis%20Using%20Linux/) |
 | 36 | Compromised Credentials | Windows Security logs, Sysmon, PowerShell, SMB | [Walkthrough](Compromised%20Credentials/) |
+| 37 | Malicious User Behaviour Analysis | Ubuntu, ClamAV, ss, account auditing | [Walkthrough](Malicious%20User%20Behaviour%20Analysis/) |
