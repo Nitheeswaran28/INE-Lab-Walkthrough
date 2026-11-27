@@ -47,3 +47,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 39 | False Positive Validation: Trusted Admin Brute-Force Detection | Wazuh, TheHive, SSH, alert triage | [Walkthrough](False%20Positive%20Validation%20-%20Trusted%20Admin%20Brute-Force%20Detection/) |
 | 40 | Account Creation and Privilege Escalation Attempt Detection | Wazuh, TheHive, SSH, sudo, MITRE ATT&CK | [Walkthrough](Account%20Creation%20and%20Privilege%20Escalation%20Attempt%20Detection/) |
 | 41 | PCAP Analysis With Zeek | Zeek, jq, packet captures, network forensics | [Walkthrough](PCAP%20Analysis%20With%20Zeek/) |
+| 42 | SOC-1: Investigating Suspicious Firewall Modification | Splunk, Windows Firewall, SMB, Sysmon, TheHive | [Walkthrough](SOC-1%20-%20Investigating%20Suspicious%20Firewall%20Modification/) |
