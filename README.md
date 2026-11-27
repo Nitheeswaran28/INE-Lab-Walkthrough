@@ -45,3 +45,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 37 | Malicious User Behaviour Analysis | Ubuntu, ClamAV, ss, account auditing | [Walkthrough](Malicious%20User%20Behaviour%20Analysis/) |
 | 38 | Attack Emulation and Detection on ELK | HELK, Kibana, Sysmon, Winlogbeat, Atomic Red Team | [Walkthrough](Attack%20Emulation%20and%20Detection%20on%20ELK/) |
 | 39 | False Positive Validation: Trusted Admin Brute-Force Detection | Wazuh, TheHive, SSH, alert triage | [Walkthrough](False%20Positive%20Validation%20-%20Trusted%20Admin%20Brute-Force%20Detection/) |
+| 40 | Account Creation and Privilege Escalation Attempt Detection | Wazuh, TheHive, SSH, sudo, MITRE ATT&CK | [Walkthrough](Account%20Creation%20and%20Privilege%20Escalation%20Attempt%20Detection/) |
