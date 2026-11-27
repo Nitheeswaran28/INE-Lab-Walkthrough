@@ -38,3 +38,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 30 | DNS and Vhosts | DNS, PTR, dig, HTTP virtual hosts | [Walkthrough](DNS%20and%20Vhosts/) |
 | 31 | Exploring a Git Repo | Git history, SMB, repository secret exposure | [Walkthrough](Exploring%20a%20Git%20Repo/) |
 | 32 | Recovering Key Git Repo Files | Git metadata, Flask, deployment exposure | [Walkthrough](Recovering%20Key%20Git%20Repo%20Files/) |
+| 33 | Automated Git Repo Recovery | Git history, Apache, Django, SQLite | [Walkthrough](Automated%20Git%20Repo%20Recovery/) |
