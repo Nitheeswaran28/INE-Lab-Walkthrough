@@ -43,3 +43,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 35 | Log Analysis Using Linux | Apache, SSH, FTP, grep, cut, awk | [Walkthrough](Log%20Analysis%20Using%20Linux/) |
 | 36 | Compromised Credentials | Windows Security logs, Sysmon, PowerShell, SMB | [Walkthrough](Compromised%20Credentials/) |
 | 37 | Malicious User Behaviour Analysis | Ubuntu, ClamAV, ss, account auditing | [Walkthrough](Malicious%20User%20Behaviour%20Analysis/) |
+| 38 | Attack Emulation and Detection on ELK | HELK, Kibana, Sysmon, Winlogbeat, Atomic Red Team | [Walkthrough](Attack%20Emulation%20and%20Detection%20on%20ELK/) |
