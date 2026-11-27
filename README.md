@@ -48,3 +48,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 40 | Account Creation and Privilege Escalation Attempt Detection | Wazuh, TheHive, SSH, sudo, MITRE ATT&CK | [Walkthrough](Account%20Creation%20and%20Privilege%20Escalation%20Attempt%20Detection/) |
 | 41 | PCAP Analysis With Zeek | Zeek, jq, packet captures, network forensics | [Walkthrough](PCAP%20Analysis%20With%20Zeek/) |
 | 42 | SOC-1: Investigating Suspicious Firewall Modification | Splunk, Windows Firewall, SMB, Sysmon, TheHive | [Walkthrough](SOC-1%20-%20Investigating%20Suspicious%20Firewall%20Modification/) |
+| 43 | SOC-1: Analyzing Unusual Web Traffic | Splunk, Apache access logs, web shell triage, TheHive | [Walkthrough](SOC-1%20-%20Analyzing%20Unusual%20Web%20Traffic/) |
