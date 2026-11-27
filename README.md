@@ -39,3 +39,4 @@ Beginner-friendly walkthroughs for the INE cybersecurity labs I complete. Each l
 | 31 | Exploring a Git Repo | Git history, SMB, repository secret exposure | [Walkthrough](Exploring%20a%20Git%20Repo/) |
 | 32 | Recovering Key Git Repo Files | Git metadata, Flask, deployment exposure | [Walkthrough](Recovering%20Key%20Git%20Repo%20Files/) |
 | 33 | Automated Git Repo Recovery | Git history, Apache, Django, SQLite | [Walkthrough](Automated%20Git%20Repo%20Recovery/) |
+| 34 | Advanced Threat Analysis | Wireshark, CyberChef, HTTP, network forensics | [Walkthrough](Advanced%20Threat%20Analysis/) |
